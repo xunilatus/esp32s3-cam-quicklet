@@ -3,10 +3,10 @@ Reference, code, and Arduino ".ino" files for ESP32-S3-CAM N16R8 V1.5 GOOUUU. Co
 
 # Board Setup Configuration Arduino
 
-## Arduino IDE > File > Preferences > Additional Boards Manager URLs > Add:
+### Arduino IDE > File > Preferences > Additional Boards Manager URLs > Add:
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
-### Flash on the "right USBC port" & Power with pins or "left USBC port"
+#### Flash on the "right USBC port" & Power with pins or "left USBC port"
 
 ### Arduino IDE → Tools
 
