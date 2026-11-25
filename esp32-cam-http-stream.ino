@@ -5,8 +5,8 @@
 // ============================================================
 // WIFI
 // ============================================================
-const char* WIFI_NAME = "TargetedJustice";
-const char* WIFI_PASSWORD = "pushyourenergy";
+const char* WIFI_NAME = "name of wifi";
+const char* WIFI_PASSWORD = "password for your wifi";
 
 // ============================================================
 // GOOUUU ESP32-S3-CAM V1.5 N16R8
